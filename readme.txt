@@ -4,4 +4,5 @@ git is so powerful,fantastic!
 this line is used to check the stage working principle
 now ,i have a distributed version manager!
 add a branch
-add a content to the master
+add a branch1 to test conflict
+
