@@ -10,4 +10,9 @@ add a branch named dev1
 
 add a branch named dev2
 
+<<<<<<< HEAD
 edit from git ,that is conflicted with the github!
+=======
+make change from the github!
+cooperation with other developer!
+>>>>>>> 1aa0af6adc8967359a95c0ff09e5220f45c595ed
