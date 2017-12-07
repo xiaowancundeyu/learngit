@@ -10,3 +10,4 @@ add a branch named dev1
 
 add a branch named dev2
 
+edit from git ,that is conflicted with the github!
